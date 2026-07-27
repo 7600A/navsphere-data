@@ -232,7 +232,17 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "1785156728415",
+          "title": "网页源代码 在线",
+          "href": "https://toolsina.com/zh/source-code-downloader/",
+          "description": "网页源代码：粘贴公开网页地址，由服务器抓取 HTML 响应，并以纯文本 .txt 下载（保留标记），便于阅读、对比或离线保存（受工具大小限制）。",
+          "icon": "/assets/favicon_1785156744169.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
