@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1785156531322",
+      "title": "节点",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1785156215834",
       "title": "因素",
       "icon": "FolderKanban",
@@ -1616,15 +1625,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1785156531322",
-      "title": "节点",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
