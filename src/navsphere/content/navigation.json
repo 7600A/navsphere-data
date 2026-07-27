@@ -206,7 +206,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1785156577323",
+          "title": "裤佬全球优选ip - 顶级分控管理系统",
+          "href": "https://globalchooseip.pages.dev/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=globalchooseip.pages.dev",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
