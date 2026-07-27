@@ -1616,6 +1616,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1785156531322",
+      "title": "节点",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
