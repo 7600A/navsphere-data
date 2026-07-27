@@ -201,6 +201,15 @@
       "subCategories": []
     },
     {
+      "id": "1785156531322",
+      "title": "节点",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1616,15 +1625,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1785156531322",
-      "title": "节点",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
