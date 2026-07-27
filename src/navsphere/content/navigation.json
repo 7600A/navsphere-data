@@ -1570,6 +1570,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1785156215834",
+      "title": "因素",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
