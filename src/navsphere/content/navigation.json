@@ -1,61 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1785156531322",
-      "title": "节点",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1785156215834",
-      "title": "因素",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1785156230666",
-          "title": "YouTube",
-          "href": "https://www.youtube.com/",
-          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
-          "icon": "/assets/favicon_1785156255247.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1785156290893",
-          "title": "观影导航",
-          "href": "https://www.guannav.com/",
-          "description": "访问 www.guannav.com",
-          "icon": "/assets/favicon_1785156294841.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1785156338387",
-          "title": "片库",
-          "href": "https://4k01.pianku.online/",
-          "description": "片库是一个免费为广大追剧迷提供在线播放的影视站，涵盖大量免费的VIP电视剧资源、最新上映大片、好看的综艺节目及动漫视频，是一个播放速度快，资源多的免费影视网站",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=4k01.pianku.online",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1785156395480",
-          "title": "LunaTV",
-          "href": "http://localhost:3000/",
-          "description": "访问 localhost",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=localhost",
-          "useDefaultIcon": false,
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -208,6 +153,52 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1785156215834",
+      "title": "因素",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1785156230666",
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1785156255247.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1785156290893",
+          "title": "观影导航",
+          "href": "https://www.guannav.com/",
+          "description": "访问 www.guannav.com",
+          "icon": "/assets/favicon_1785156294841.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1785156338387",
+          "title": "片库",
+          "href": "https://4k01.pianku.online/",
+          "description": "片库是一个免费为广大追剧迷提供在线播放的影视站，涵盖大量免费的VIP电视剧资源、最新上映大片、好看的综艺节目及动漫视频，是一个播放速度快，资源多的免费影视网站",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=4k01.pianku.online",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1785156395480",
+          "title": "LunaTV",
+          "href": "http://localhost:3000/",
+          "description": "访问 localhost",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=localhost",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     },
     {
       "id": "1761724945457",
@@ -1625,6 +1616,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1785156531322",
+      "title": "节点",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
