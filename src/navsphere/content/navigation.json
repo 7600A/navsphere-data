@@ -215,6 +215,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=globalchooseip.pages.dev",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1785156607298",
+          "title": "登录设置页面",
+          "href": "https://ygyydm5470.pages.dev/login",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ygyydm5470.pages.dev",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
