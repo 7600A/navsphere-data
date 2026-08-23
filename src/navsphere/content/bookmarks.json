@@ -5726,7 +5726,9 @@
       "folderId": "3",
       "key": "君:90",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "91",
@@ -5739,7 +5741,9 @@
       "folderId": "3",
       "key": "君:91",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "92",
@@ -5752,7 +5756,9 @@
       "folderId": "3",
       "key": "君:92",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "93",
@@ -5765,7 +5771,9 @@
       "folderId": "3",
       "key": "君:93",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "94",
@@ -5778,7 +5786,9 @@
       "folderId": "3",
       "key": "君:94",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "95",
@@ -5791,7 +5801,9 @@
       "folderId": "3",
       "key": "君:95",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "96",
@@ -5804,7 +5816,9 @@
       "folderId": "3",
       "key": "君:96",
       "category": "开发工具",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 404,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "97",
@@ -5817,7 +5831,9 @@
       "folderId": "3",
       "key": "君:97",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "98",
@@ -5830,7 +5846,9 @@
       "folderId": "3",
       "key": "君:98",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "99",
@@ -5843,7 +5861,9 @@
       "folderId": "3",
       "key": "君:99",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
       "id": "100",
