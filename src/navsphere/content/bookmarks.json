@@ -5576,7 +5576,9 @@
       "folderId": "3",
       "key": "君:80",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "81",
@@ -5589,7 +5591,9 @@
       "folderId": "3",
       "key": "君:81",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "82",
@@ -5602,7 +5606,9 @@
       "folderId": "3",
       "key": "君:82",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "83",
@@ -5615,7 +5621,9 @@
       "folderId": "3",
       "key": "君:83",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "84",
@@ -5628,7 +5636,9 @@
       "folderId": "3",
       "key": "君:84",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "85",
@@ -5641,7 +5651,9 @@
       "folderId": "3",
       "key": "君:85",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "86",
@@ -5654,7 +5666,9 @@
       "folderId": "3",
       "key": "君:86",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 521,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "87",
@@ -5667,7 +5681,9 @@
       "folderId": "3",
       "key": "君:87",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "88",
@@ -5680,7 +5696,9 @@
       "folderId": "3",
       "key": "君:88",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "89",
@@ -5693,7 +5711,9 @@
       "folderId": "3",
       "key": "君:89",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:08:48.112Z"
     },
     {
       "id": "90",
