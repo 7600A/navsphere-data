@@ -6626,7 +6626,9 @@
       "folderId": "3",
       "key": "君:153",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "154",
@@ -6639,7 +6641,9 @@
       "folderId": "3",
       "key": "君:154",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "155",
@@ -6652,7 +6656,9 @@
       "folderId": "3",
       "key": "君:155",
       "category": "设计资源",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "156",
@@ -6665,7 +6671,9 @@
       "folderId": "3",
       "key": "君:156",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "157",
@@ -6678,7 +6686,9 @@
       "folderId": "3",
       "key": "君:157",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "158",
@@ -6691,7 +6701,9 @@
       "folderId": "3",
       "key": "君:158",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "159",
@@ -6704,7 +6716,9 @@
       "folderId": "3",
       "key": "君:159",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "160",
@@ -6717,7 +6731,9 @@
       "folderId": "3",
       "key": "君:160",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 850,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "161",
@@ -6730,7 +6746,9 @@
       "folderId": "3",
       "key": "君:161",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 520,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "162",
@@ -6743,7 +6761,9 @@
       "folderId": "3",
       "key": "君:162",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:37.309Z"
     },
     {
       "id": "163",
