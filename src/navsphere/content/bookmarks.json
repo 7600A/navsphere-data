@@ -5126,7 +5126,9 @@
       "folderId": "3",
       "key": "君:48",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "49",
@@ -5139,7 +5141,9 @@
       "folderId": "3",
       "key": "君:49",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "50",
@@ -5152,7 +5156,9 @@
       "folderId": "3",
       "key": "君:50",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "51",
@@ -5165,7 +5171,9 @@
       "folderId": "3",
       "key": "君:51",
       "category": "其他",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 0,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "54",
@@ -5178,7 +5186,9 @@
       "folderId": "3",
       "key": "君:54",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "55",
@@ -5191,7 +5201,9 @@
       "folderId": "3",
       "key": "君:55",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "56",
@@ -5204,7 +5216,9 @@
       "folderId": "3",
       "key": "君:56",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "57",
@@ -5217,7 +5231,9 @@
       "folderId": "3",
       "key": "君:57",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "58",
@@ -5230,7 +5246,9 @@
       "folderId": "3",
       "key": "君:58",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "59",
@@ -5243,7 +5261,9 @@
       "folderId": "3",
       "key": "君:59",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
       "id": "60",
