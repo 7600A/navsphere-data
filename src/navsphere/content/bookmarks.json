@@ -4076,7 +4076,9 @@
       "folderId": "2",
       "key": "君:229",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "231",
@@ -4089,7 +4091,9 @@
       "folderId": "2",
       "key": "君:231",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "232",
@@ -4102,7 +4106,9 @@
       "folderId": "2",
       "key": "君:232",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "233",
@@ -4115,7 +4121,9 @@
       "folderId": "2",
       "key": "君:233",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 525,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "234",
@@ -4128,7 +4136,9 @@
       "folderId": "2",
       "key": "君:234",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "235",
@@ -4141,7 +4151,9 @@
       "folderId": "2",
       "key": "君:235",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "236",
@@ -4154,7 +4166,9 @@
       "folderId": "2",
       "key": "君:236",
       "category": "其他",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 404,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "237",
@@ -4167,7 +4181,9 @@
       "folderId": "2",
       "key": "君:237",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "238",
@@ -4180,7 +4196,9 @@
       "folderId": "2",
       "key": "君:238",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "239",
@@ -4193,7 +4211,9 @@
       "folderId": "2",
       "key": "君:239",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
       "id": "240",
