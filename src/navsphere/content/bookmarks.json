@@ -8576,7 +8576,9 @@
       "folderId": "3",
       "key": "术:60",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "61",
@@ -8589,7 +8591,9 @@
       "folderId": "3",
       "key": "术:61",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "62",
@@ -8602,7 +8606,9 @@
       "folderId": "3",
       "key": "术:62",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "63",
@@ -8615,7 +8621,9 @@
       "folderId": "3",
       "key": "术:63",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "64",
@@ -8628,7 +8636,9 @@
       "folderId": "3",
       "key": "术:64",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "65",
@@ -8641,7 +8651,9 @@
       "folderId": "3",
       "key": "术:65",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "66",
@@ -8654,7 +8666,9 @@
       "folderId": "3",
       "key": "术:66",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "67",
@@ -8667,7 +8681,9 @@
       "folderId": "3",
       "key": "术:67",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "68",
@@ -8680,7 +8696,9 @@
       "folderId": "3",
       "key": "术:68",
       "category": "开发工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "69",
@@ -8693,7 +8711,9 @@
       "folderId": "3",
       "key": "术:69",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:10:49.084Z"
     },
     {
       "id": "70",
