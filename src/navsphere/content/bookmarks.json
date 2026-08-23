@@ -4826,7 +4826,9 @@
       "folderId": "3",
       "key": "君:26",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 526,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "27",
@@ -4839,7 +4841,9 @@
       "folderId": "3",
       "key": "君:27",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "28",
@@ -4852,7 +4856,9 @@
       "folderId": "3",
       "key": "君:28",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 523,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "31",
@@ -4865,7 +4871,9 @@
       "folderId": "3",
       "key": "君:31",
       "category": "游戏",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 404,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "32",
@@ -4878,7 +4886,9 @@
       "folderId": "3",
       "key": "君:32",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "33",
@@ -4891,7 +4901,9 @@
       "folderId": "3",
       "key": "君:33",
       "category": "其他",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 0,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "34",
@@ -4904,7 +4916,9 @@
       "folderId": "3",
       "key": "君:34",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "35",
@@ -4917,7 +4931,9 @@
       "folderId": "3",
       "key": "君:35",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "36",
@@ -4930,7 +4946,9 @@
       "folderId": "3",
       "key": "君:36",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 526,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "37",
@@ -4943,7 +4961,9 @@
       "folderId": "3",
       "key": "君:37",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
       "id": "38",
