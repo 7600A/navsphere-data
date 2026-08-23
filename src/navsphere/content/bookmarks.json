@@ -1976,7 +1976,9 @@
       "folderId": "1",
       "key": "君:427",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "428",
@@ -1989,7 +1991,9 @@
       "folderId": "1",
       "key": "君:428",
       "category": "其他",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 0,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "429",
@@ -2002,7 +2006,9 @@
       "folderId": "1",
       "key": "君:429",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 401,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "432",
@@ -2015,7 +2021,9 @@
       "folderId": "1",
       "key": "君:432",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "434",
@@ -2028,7 +2036,9 @@
       "folderId": "1",
       "key": "君:434",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 404,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "436",
@@ -2041,7 +2051,9 @@
       "folderId": "1",
       "key": "君:436",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "437",
@@ -2054,7 +2066,9 @@
       "folderId": "1",
       "key": "君:437",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "438",
@@ -2067,7 +2081,9 @@
       "folderId": "1",
       "key": "君:438",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "439",
@@ -2080,7 +2096,9 @@
       "folderId": "1",
       "key": "君:439",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "442",
@@ -2093,7 +2111,9 @@
       "folderId": "1",
       "key": "君:442",
       "category": "其他",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 0,
+      "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
       "id": "446",
