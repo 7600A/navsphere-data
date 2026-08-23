@@ -9176,7 +9176,9 @@
       "folderId": "3",
       "key": "术:100",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:11:08.807Z"
     },
     {
       "id": "101",
@@ -9189,7 +9191,9 @@
       "folderId": "3",
       "key": "术:101",
       "category": "其他",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 404,
+      "checkedAt": "2026-08-23T02:11:08.807Z"
     },
     {
       "id": "102",
@@ -9202,7 +9206,9 @@
       "folderId": "3",
       "key": "术:102",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:11:08.807Z"
     }
   ],
   "backups": []
