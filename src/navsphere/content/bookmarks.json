@@ -3176,7 +3176,9 @@
       "folderId": "1",
       "key": "君:575",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "576",
@@ -3189,7 +3191,9 @@
       "folderId": "1",
       "key": "君:576",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "579",
@@ -3202,7 +3206,9 @@
       "folderId": "1",
       "key": "君:579",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "582",
@@ -3215,7 +3221,9 @@
       "folderId": "1",
       "key": "君:582",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 400,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "583",
@@ -3228,7 +3236,9 @@
       "folderId": "1",
       "key": "君:583",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 400,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "584",
@@ -3241,7 +3251,9 @@
       "folderId": "1",
       "key": "君:584",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "585",
@@ -3254,7 +3266,9 @@
       "folderId": "1",
       "key": "君:585",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "586",
@@ -3267,7 +3281,9 @@
       "folderId": "1",
       "key": "君:586",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "587",
@@ -3280,7 +3296,9 @@
       "folderId": "1",
       "key": "君:587",
       "category": "AI工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "588",
@@ -3293,7 +3311,9 @@
       "folderId": "1",
       "key": "君:588",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:06:52.979Z"
     },
     {
       "id": "589",
