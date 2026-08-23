@@ -1,21 +1,6 @@
 {
   "bookmarks": [
     {
-      "id": "251",
-      "title": "万能命令",
-      "url": "javascript:(function(){window.open(\"https://wannengrun.net/f/#%22+document.location.href)})()",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:251",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:03:56.713Z"
-    },
-    {
       "id": "337",
       "title": "网盘管理 - 百度网盘 Rust 客户端",
       "url": "http://127.0.0.1:18888/files",
@@ -196,21 +181,6 @@
       "checkedAt": "2026-08-23T02:04:33.522Z"
     },
     {
-      "id": "263",
-      "title": "mebian",
-      "url": "https://media.nijigem.by/web/index.html#!/home",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:263",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:04:33.522Z"
-    },
-    {
       "id": "264",
       "title": "VPS小白|从无到有",
       "url": "https://vpsxb.net/",
@@ -223,21 +193,6 @@
       "category": "其他",
       "status": "review",
       "httpStatus": 403,
-      "checkedAt": "2026-08-23T02:04:33.522Z"
-    },
-    {
-      "id": "265",
-      "title": "hohai 公益",
-      "url": "https://emby-npo.hohai.eu.org/web/index.html#!/index.html",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:265",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:04:33.522Z"
     },
     {
@@ -481,21 +436,6 @@
       "checkedAt": "2026-08-23T02:04:47.818Z"
     },
     {
-      "id": "284",
-      "title": "在线粘贴代码 - PasteCode.dev",
-      "url": "https://pastecode.dev/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:284",
-      "category": "开发工具",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:04:47.818Z"
-    },
-    {
       "id": "285",
       "title": "CF-DNS-Clon",
       "url": "https://hhhhh.eu.org/",
@@ -508,21 +448,6 @@
       "category": "其他",
       "status": "review",
       "httpStatus": 522,
-      "checkedAt": "2026-08-23T02:04:47.818Z"
-    },
-    {
-      "id": "286",
-      "title": "视频首页 - 影巢-中国领先的在线视频媒体平台,movie1080,海量高清视频在线观看",
-      "url": "https://www.movie1080.xyz/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:286",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:04:47.818Z"
     },
     {
@@ -658,36 +583,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:04:58.767Z"
-    },
-    {
-      "id": "299",
-      "title": "加载中",
-      "url": "https://ka.huojukj.com/?u=888888",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:299",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:04:58.767Z"
-    },
-    {
-      "id": "300",
-      "title": "Dooong 博客",
-      "url": "https://dooo.ng/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:300",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:04:58.767Z"
     },
     {
@@ -961,36 +856,6 @@
       "checkedAt": "2026-08-23T02:05:17.500Z"
     },
     {
-      "id": "324",
-      "title": "临时邮箱服务",
-      "url": "https://www.ogo.codes/zh-cn/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:324",
-      "category": "开发工具",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:05:17.500Z"
-    },
-    {
-      "id": "325",
-      "title": "🔥🔥🔥【2026年4月最新版】ChatGPT Plus + Gemini AI Pro + Claude AI 免费获得&自主订阅&直冲教程分享，自己动手丰衣足食~🔥🔥🔥 - Feishu Docs",
-      "url": "https://ocnbgn2guk8i.feishu.cn/wiki/KLIDwUtTAiRtobkBEfHcHdxpnhg",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:325",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:05:17.500Z"
-    },
-    {
       "id": "327",
       "title": "TalorData -家宽",
       "url": "https://dashboard.talordata.com/zh-cn/static-proxy/pricing",
@@ -1153,21 +1018,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:05:28.992Z"
-    },
-    {
-      "id": "340",
-      "title": "MobiMusic",
-      "url": "https://mobi.likegamex.top/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:340",
-      "category": "游戏",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:05:28.992Z"
     },
     {
@@ -1576,21 +1426,6 @@
       "checkedAt": "2026-08-23T02:05:43.141Z"
     },
     {
-      "id": "389",
-      "title": "Telegram群组搜索|频道搜索",
-      "url": "https://telesou.com/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:389",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:05:43.141Z"
-    },
-    {
       "id": "390",
       "title": "蹬蹬公益站导航",
       "url": "https://guoxueziliao.github.io/dengdeng-public-nav/",
@@ -1771,21 +1606,6 @@
       "checkedAt": "2026-08-23T02:05:53.454Z"
     },
     {
-      "id": "407",
-      "title": "New API",
-      "url": "https://aiapi1.cc.cd/console/token",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:407",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:05:53.454Z"
-    },
-    {
       "id": "408",
       "title": "API 密钥 - AI-ROUTER",
       "url": "https://ai-router.dev/keys",
@@ -1843,21 +1663,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:05:58.072Z"
-    },
-    {
-      "id": "415",
-      "title": "PanDownload Plus",
-      "url": "https://www.pandown.org/pd/download/PanDownload.php",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:415",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:05:58.072Z"
     },
     {
@@ -1981,21 +1786,6 @@
       "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
-      "id": "428",
-      "title": "大姨子的诱惑",
-      "url": "https://cd.sd/",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:428",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:06:08.325Z"
-    },
-    {
       "id": "429",
       "title": "LogVar弹幕API",
       "url": "https://dm.wodenas.xin/xiatianemby",
@@ -2023,21 +1813,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:06:08.325Z"
-    },
-    {
-      "id": "434",
-      "title": "ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海豚.json",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E8%B1%9A.json",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:434",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
@@ -2101,21 +1876,6 @@
       "checkedAt": "2026-08-23T02:06:08.325Z"
     },
     {
-      "id": "442",
-      "title": "API 密钥 - Sub2API",
-      "url": "https://sub2.3bbb.cc.cd/keys",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:442",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:06:08.325Z"
-    },
-    {
       "id": "446",
       "title": "Acompany",
       "url": "https://ai.acompany.cv/wallet",
@@ -2173,21 +1933,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:06:12.838Z"
-    },
-    {
-      "id": "450",
-      "title": "IP2free",
-      "url": "https://www.ip2free.com/cn/freeProxy",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:450",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:06:12.838Z"
     },
     {
@@ -2311,21 +2056,6 @@
       "checkedAt": "2026-08-23T02:06:22.963Z"
     },
     {
-      "id": "468",
-      "title": "Gleam免费二级域名",
-      "url": "https://sld.0n.pub/user/domains",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:468",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:06:22.963Z"
-    },
-    {
       "id": "475",
       "title": "Bluesminds",
       "url": "https://api.bluesminds.com/console/token",
@@ -2368,21 +2098,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:06:22.963Z"
-    },
-    {
-      "id": "478",
-      "title": "Aerolink — One API key for every AI agent",
-      "url": "https://aerolink.lat/dashboard/api-keys",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:478",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:06:22.963Z"
     },
     {
@@ -2866,21 +2581,6 @@
       "checkedAt": "2026-08-23T02:06:34.951Z"
     },
     {
-      "id": "532",
-      "title": "小兔云-商城",
-      "url": "https://xiaotu.moe/cart/goodsList.htm?fpg_id=3&spg_id=100",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:532",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:06:40.487Z"
-    },
-    {
       "id": "533",
       "title": "Bitm-m · Registry Mirror",
       "url": "https://833337.xyz/Bitm-m#",
@@ -2893,21 +2593,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:06:40.487Z"
-    },
-    {
-      "id": "534",
-      "title": "LogVar弹幕API",
-      "url": "https://owndanmu.vercel.app/760023",
-      "path": [
-        "书签栏"
-      ],
-      "source": "君",
-      "folderId": "1",
-      "key": "君:534",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:06:40.487Z"
     },
     {
@@ -4156,21 +3841,6 @@
       "checkedAt": "2026-08-23T02:07:22.103Z"
     },
     {
-      "id": "236",
-      "title": "【　　　】牢记搜书四种地址发布方式，网址永不丢失！！！ - 网站事务 - 搜书吧 - Powered by Discuz!",
-      "url": "https://pvew5.pver549cn.com/forum.php?mod=viewthread&tid=263486&extra=page%3D1",
-      "path": [
-        "其他书签"
-      ],
-      "source": "君",
-      "folderId": "2",
-      "key": "君:236",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:07:22.103Z"
-    },
-    {
       "id": "237",
       "title": "ProxyIP Aurora",
       "url": "https://ddx.snu.cc/",
@@ -4336,21 +4006,6 @@
       "checkedAt": "2026-08-23T02:07:25.951Z"
     },
     {
-      "id": "250",
-      "title": "hohai 公益",
-      "url": "https://emby-npo.hohai.eu.org/web/index.html#!/startup/manuallogin.html?serverId=817f29b8af734735894fd90313d05841",
-      "path": [
-        "其他书签"
-      ],
-      "source": "君",
-      "folderId": "2",
-      "key": "君:250",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:07:25.951Z"
-    },
-    {
       "id": "469",
       "title": "Atomesus: Smart and Simple Artificial Intelligence",
       "url": "https://www.atomesus.com/chat",
@@ -4364,21 +4019,6 @@
       "status": "ok",
       "httpStatus": 200,
       "checkedAt": "2026-08-23T02:07:25.951Z"
-    },
-    {
-      "id": "470",
-      "title": "管理域名 | KataBump --- Manage domain | KataBump",
-      "url": "https://dashboard.katabump.com/domains/manage?id=37948&success=created",
-      "path": [
-        "其他书签"
-      ],
-      "source": "君",
-      "folderId": "2",
-      "key": "君:470",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:07:28.973Z"
     },
     {
       "id": "471",
@@ -4426,36 +4066,6 @@
       "checkedAt": "2026-08-23T02:07:28.973Z"
     },
     {
-      "id": "425",
-      "title": "仪表盘 - MISUB",
-      "url": "https://misub-8ca.pages.dev/dashboard",
-      "path": [
-        "其他书签"
-      ],
-      "source": "君",
-      "folderId": "2",
-      "key": "君:425",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:07:28.973Z"
-    },
-    {
-      "id": "423",
-      "title": "CF-NEW",
-      "url": "https://cfts-ccx.pages.dev/e2b2965e-380f-4654-94b6-3eb4d7ac1d46",
-      "path": [
-        "其他书签"
-      ],
-      "source": "君",
-      "folderId": "2",
-      "key": "君:423",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:07:28.973Z"
-    },
-    {
       "id": "255",
       "title": "今日时事 - 新闻第一线",
       "url": "https://news.yltfspace.com/",
@@ -4468,21 +4078,6 @@
       "category": "媒体资讯",
       "status": "review",
       "httpStatus": 525,
-      "checkedAt": "2026-08-23T02:07:28.973Z"
-    },
-    {
-      "id": "546",
-      "title": "vps789-淘鸡-全网VPS比价平台，寻找最便宜、最合适、高性价比的vps",
-      "url": "https://vps789.com/vpsall/",
-      "path": [
-        "其他书签"
-      ],
-      "source": "君",
-      "folderId": "2",
-      "key": "君:546",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:07:28.973Z"
     },
     {
@@ -4621,51 +4216,6 @@
       "checkedAt": "2026-08-23T02:07:39.978Z"
     },
     {
-      "id": "13",
-      "title": "678辅助网_最大免费游戏辅助网_热门辅助资源网_我爱辅助网",
-      "url": "https://www.678cv.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:13",
-      "category": "游戏",
-      "status": "ok",
-      "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:07:39.978Z"
-    },
-    {
-      "id": "14",
-      "title": "七天辅助网-全网最火爆的游戏辅助网,专注于分享我爱辅助精品辅助-菜鸟资源网",
-      "url": "https://www.cnucw.com/url/107.html",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:14",
-      "category": "游戏",
-      "status": "review",
-      "httpStatus": 520,
-      "checkedAt": "2026-08-23T02:07:39.978Z"
-    },
-    {
-      "id": "15",
-      "title": "小黑辅助网_最大免费游戏辅助网_热门辅助资源网_我爱辅助网",
-      "url": "https://www.xh222.cc/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:15",
-      "category": "游戏",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:07:39.978Z"
-    },
-    {
       "id": "16",
       "title": "云资源库 – 非常齐全的资源收集平台",
       "url": "http://www.05ty.cc/",
@@ -4678,36 +4228,6 @@
       "category": "其他",
       "status": "review",
       "httpStatus": 530,
-      "checkedAt": "2026-08-23T02:07:51.029Z"
-    },
-    {
-      "id": "17",
-      "title": "网址导航 - 菜鸟资源网-小黑屋资源网技术导航最全面的游戏资源分享平台",
-      "url": "https://www.cnucw.com/url/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:17",
-      "category": "游戏",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:07:51.029Z"
-    },
-    {
-      "id": "18",
-      "title": "游戏辅助_技术导航网",
-      "url": "https://www.jishu5.com/category-4.html",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:18",
-      "category": "游戏",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:07:51.029Z"
     },
     {
@@ -4801,36 +4321,6 @@
       "checkedAt": "2026-08-23T02:07:51.029Z"
     },
     {
-      "id": "25",
-      "title": "辅助分类 - 技术导航",
-      "url": "https://www.daohangtx.com/m/ls/2.html",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:25",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:07:51.029Z"
-    },
-    {
-      "id": "26",
-      "title": "末世资源网-劲爆游戏辅助网-免费辅助官网-原创资源网-专注分享绿色软件",
-      "url": "https://www.moshizy.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:26",
-      "category": "游戏",
-      "status": "review",
-      "httpStatus": 526,
-      "checkedAt": "2026-08-23T02:08:01.668Z"
-    },
-    {
       "id": "27",
       "title": "辅助网站大全 - 辅助导航 - 50技术导航",
       "url": "https://www.wulingzy.com/daohang/fuzhu/",
@@ -4861,21 +4351,6 @@
       "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
-      "id": "31",
-      "title": "免安装 - 游戏天堂",
-      "url": "https://www.zzzzz688.com/tag/%E5%85%8D%E5%AE%89%E8%A3%85",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:31",
-      "category": "游戏",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:08:01.668Z"
-    },
-    {
       "id": "32",
       "title": "以您为先的浏览器 | Brave",
       "url": "https://brave.com/",
@@ -4888,21 +4363,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:08:01.668Z"
-    },
-    {
-      "id": "33",
-      "title": "免费万能打开文件的APP推荐（方便实用的文件打开工具大盘点） - 赤峰电脑",
-      "url": "https://www.ccffcc.com/article-2589-1.html",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:33",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:08:01.668Z"
     },
     {
@@ -5086,21 +4546,6 @@
       "checkedAt": "2026-08-23T02:08:12.137Z"
     },
     {
-      "id": "46",
-      "title": "在Telegram上按频道和群组搜索",
-      "url": "https://cn.telegram-store.com/catalog/search",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:46",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:08:12.137Z"
-    },
-    {
       "id": "47",
       "title": "安心下载网-安卓软件游戏下载站",
       "url": "http://m.java800.com/",
@@ -5161,36 +4606,6 @@
       "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
-      "id": "51",
-      "title": "手游 - 手机版 - Powered by Discuz!",
-      "url": "https://faxdao.com/forum.php?gid=1",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:51",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:08:23.065Z"
-    },
-    {
-      "id": "54",
-      "title": "一零辅助网 - 全网最大免费游戏辅助网,热门辅助资源网,我爱辅助网！",
-      "url": "https://www.10fz.cc/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:54",
-      "category": "游戏",
-      "status": "ok",
-      "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:08:23.065Z"
-    },
-    {
       "id": "55",
       "title": "Non official 電報應用目錄：頻道、機器人、群組、貼紙 中国 — telegram-store.com",
       "url": "https://cn.telegram-store.com/",
@@ -5236,21 +4651,6 @@
       "checkedAt": "2026-08-23T02:08:23.065Z"
     },
     {
-      "id": "58",
-      "title": "酷玩资源网-酷玩吧,SWTHIC资源,游戏辅助网,每日分享大量优质软件资源,游戏单机资源！",
-      "url": "https://www.kuwanb.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:58",
-      "category": "游戏",
-      "status": "ok",
-      "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:08:23.065Z"
-    },
-    {
       "id": "59",
       "title": "防封框架大全-专业防封框架下载-防封框架下载.apk-安粉丝网",
       "url": "https://m.anfensi.com/k/fangfenkuangjia",
@@ -5264,21 +4664,6 @@
       "status": "ok",
       "httpStatus": 200,
       "checkedAt": "2026-08-23T02:08:23.065Z"
-    },
-    {
-      "id": "60",
-      "title": "付费和平精英辅助 - 手游科技辅助发卡网",
-      "url": "http://www.myxlxx.com/category-1.html",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:60",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:08:33.393Z"
     },
     {
       "id": "61",
@@ -5446,36 +4831,6 @@
       "checkedAt": "2026-08-23T02:08:43.846Z"
     },
     {
-      "id": "72",
-      "title": "酒入辅助游戏论坛 - 辅助工具|最新:HTTPS://Www.2Fzb.BiZ 手机版",
-      "url": "https://www.jr34.xyz/portal.php?mod=index&mobile=2",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:72",
-      "category": "媒体资讯",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:08:43.846Z"
-    },
-    {
-      "id": "73",
-      "title": "免费可用游戏助手 - 七天辅助网 - 全网最火爆的游戏辅助网,专注于分享我爱辅助精品辅助！ - 第8页",
-      "url": "https://www.qtfzw520.xyz/sort/4/page/8",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:73",
-      "category": "游戏",
-      "status": "review",
-      "httpStatus": 530,
-      "checkedAt": "2026-08-23T02:08:43.846Z"
-    },
-    {
       "id": "74",
       "title": "我的IP位址查询",
       "url": "https://www.whatismyip.com.tw/tw/",
@@ -5548,21 +4903,6 @@
       "category": "媒体资讯",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:08:43.846Z"
-    },
-    {
-      "id": "79",
-      "title": "技术导航网 - 学习技术从这里开始！",
-      "url": "https://www.jishu5.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:79",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:08:43.846Z"
     },
     {
@@ -5803,21 +5143,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:08:52.250Z"
-    },
-    {
-      "id": "96",
-      "title": "无敌云短信 | 免费中国接码平台",
-      "url": "https://www.clearcode.cn/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:96",
-      "category": "开发工具",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:08:52.250Z"
     },
     {
@@ -6106,21 +5431,6 @@
       "checkedAt": "2026-08-23T02:09:07.112Z"
     },
     {
-      "id": "116",
-      "title": "Myflixer 官方网站 - 免费电影和连续剧",
-      "url": "https://myflixer.is/home",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:116",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:09:07.112Z"
-    },
-    {
       "id": "117",
       "title": "野猫网址yemao.one,关注GitHub不迷失 - 领先的免费VIP共享VIP平台",
       "url": "http://yemao.one/wangpan",
@@ -6133,21 +5443,6 @@
       "category": "开发工具",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:09:07.112Z"
-    },
-    {
-      "id": "118",
-      "title": "合租吧",
-      "url": "http://pay.hezuba.pro/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:118",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:09:07.112Z"
     },
     {
@@ -6178,21 +5473,6 @@
       "category": "其他",
       "status": "review",
       "httpStatus": 520,
-      "checkedAt": "2026-08-23T02:09:17.459Z"
-    },
-    {
-      "id": "121",
-      "title": "机场VPN导航站",
-      "url": "https://jichangvpn.github.io/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:121",
-      "category": "开发工具",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:09:17.459Z"
     },
     {
@@ -6253,21 +5533,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:09:17.459Z"
-    },
-    {
-      "id": "126",
-      "title": "值得一读技术博客|技术文档|发现创造",
-      "url": "https://daily-blog.chlinlearn.top/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:126",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:09:17.459Z"
     },
     {
@@ -6436,21 +5701,6 @@
       "checkedAt": "2026-08-23T02:09:28.383Z"
     },
     {
-      "id": "141",
-      "title": "Telegram相关 | 次元猫导航",
-      "url": "https://miaodh.net/telegramxiangguan#term-257",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:141",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:09:28.383Z"
-    },
-    {
       "id": "142",
       "title": "Black Myth: Wukong MOD下载_黑神话：悟空 Mods - 玩家动力",
       "url": "https://www.wanjiadongli.com/games/33121?tab=2",
@@ -6553,21 +5803,6 @@
       "category": "AI工具",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:09:33.467Z"
-    },
-    {
-      "id": "149",
-      "title": "免费的周易学习占卜算卦算命智能玄学网站 - 卦语AI",
-      "url": "https://hexagram-ai.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:149",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 404,
       "checkedAt": "2026-08-23T02:09:33.467Z"
     },
     {
@@ -6764,21 +5999,6 @@
       "status": "ok",
       "httpStatus": 200,
       "checkedAt": "2026-08-23T02:09:37.309Z"
-    },
-    {
-      "id": "163",
-      "title": "无版权图库-免费图片网站合集-AMZ123跨境导航",
-      "url": "https://www.amz123.com/tuku",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:163",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:09:40.928Z"
     },
     {
       "id": "164",
@@ -7246,21 +6466,6 @@
       "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
-      "id": "196",
-      "title": "频道(P2) | TGNAV - Telegram频道群组导航",
-      "url": "https://tgnav.github.io/p2/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:196",
-      "category": "开发工具",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:09:52.224Z"
-    },
-    {
       "id": "197",
       "title": "电报频道，群组，机器人列表 - 简体中文",
       "url": "https://telegramchannels.me/zh",
@@ -7471,21 +6676,6 @@
       "checkedAt": "2026-08-23T02:09:55.826Z"
     },
     {
-      "id": "212",
-      "title": "门户 - 手机版 - Powered by Discuz!",
-      "url": "https://pvew5.pver549cn.com/portal.php?mod=index&mobile=2",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:212",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:09:55.826Z"
-    },
-    {
       "id": "213",
       "title": "SkrBT - 专业的种子搜索、磁力链接搜索引擎",
       "url": "https://skrbtso.cc/",
@@ -7591,21 +6781,6 @@
       "checkedAt": "2026-08-23T02:10:06.599Z"
     },
     {
-      "id": "540",
-      "title": "免费 AI API 中转站｜5.2 与 Grok 4.5｜无需注册 - JiuRelay",
-      "url": "https://jiurelay.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:540",
-      "category": "AI工具",
-      "status": "dead",
-      "httpStatus": 0,
-      "checkedAt": "2026-08-23T02:10:06.599Z"
-    },
-    {
       "id": "541",
       "title": "手机上网卡",
       "url": "https://hk.usim.vip/shop#/?indexFirstGroup=2&promoCode=J8bzQl3L",
@@ -7633,21 +6808,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:10:06.599Z"
-    },
-    {
-      "id": "543",
-      "title": "摩羯座影视网 - 最新影视在线播放_免费下载_百度网盘分享",
-      "url": "https://www.mojiez.net/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "君",
-      "folderId": "3",
-      "key": "君:543",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:10:06.599Z"
     },
     {
@@ -7918,21 +7078,6 @@
       "category": "AI工具",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:10:20.741Z"
-    },
-    {
-      "id": "17",
-      "title": "Dialogue.moe",
-      "url": "https://dialogue.moe/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "术",
-      "folderId": "3",
-      "key": "术:17",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:10:20.741Z"
     },
     {
@@ -8338,21 +7483,6 @@
       "category": "其他",
       "status": "ok",
       "httpStatus": 200,
-      "checkedAt": "2026-08-23T02:10:39.856Z"
-    },
-    {
-      "id": "45",
-      "title": "装逼生成器,装逼制图神器",
-      "url": "https://c.tianhezulin.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "术",
-      "folderId": "3",
-      "key": "术:45",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 0,
       "checkedAt": "2026-08-23T02:10:39.856Z"
     },
     {
@@ -8791,21 +7921,6 @@
       "checkedAt": "2026-08-23T02:10:56.663Z"
     },
     {
-      "id": "75",
-      "title": "PPTBOSS-在线PPT制作工具_免费PPT幻灯片制作软件_在线课件制作软件，提供精美PPT模板、PPT教程",
-      "url": "https://www.pptboss.com/",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "术",
-      "folderId": "3",
-      "key": "术:75",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:10:56.663Z"
-    },
-    {
       "id": "76",
       "title": "AI TOOLS BY 8KMM",
       "url": "https://ai.8kmm.com/?ref=www.8kmm.com",
@@ -9181,21 +8296,6 @@
       "checkedAt": "2026-08-23T02:11:08.807Z"
     },
     {
-      "id": "101",
-      "title": "大学生必备的66个实用网站，从大一用到大四！安排！|教学|mooc|翻译|高校_网易订阅",
-      "url": "https://www.163.com/dy/article/G9LTUPIG0518I14H.html",
-      "path": [
-        "移动设备书签"
-      ],
-      "source": "术",
-      "folderId": "3",
-      "key": "术:101",
-      "category": "其他",
-      "status": "dead",
-      "httpStatus": 404,
-      "checkedAt": "2026-08-23T02:11:08.807Z"
-    },
-    {
       "id": "102",
       "title": "丰搜 - 丰富您的搜索",
       "url": "https://fengsou.cc/#term-970",
@@ -9211,5 +8311,914 @@
       "checkedAt": "2026-08-23T02:11:08.807Z"
     }
   ],
-  "backups": []
+  "backups": [
+    {
+      "id": "585aecb4-40b9-41be-8964-118c1b06937b",
+      "createdAt": "2026-08-23T02:11:53.623Z",
+      "source": "all",
+      "bookmarks": [
+        {
+          "id": "251",
+          "title": "万能命令",
+          "url": "javascript:(function(){window.open(\"https://wannengrun.net/f/#%22+document.location.href)})()",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:251",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:03:56.713Z"
+        },
+        {
+          "id": "263",
+          "title": "mebian",
+          "url": "https://media.nijigem.by/web/index.html#!/home",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:263",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:04:33.522Z"
+        },
+        {
+          "id": "265",
+          "title": "hohai 公益",
+          "url": "https://emby-npo.hohai.eu.org/web/index.html#!/index.html",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:265",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:04:33.522Z"
+        },
+        {
+          "id": "284",
+          "title": "在线粘贴代码 - PasteCode.dev",
+          "url": "https://pastecode.dev/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:284",
+          "category": "开发工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:04:47.818Z"
+        },
+        {
+          "id": "286",
+          "title": "视频首页 - 影巢-中国领先的在线视频媒体平台,movie1080,海量高清视频在线观看",
+          "url": "https://www.movie1080.xyz/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:286",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:04:47.818Z"
+        },
+        {
+          "id": "299",
+          "title": "加载中",
+          "url": "https://ka.huojukj.com/?u=888888",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:299",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:04:58.767Z"
+        },
+        {
+          "id": "300",
+          "title": "Dooong 博客",
+          "url": "https://dooo.ng/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:300",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:04:58.767Z"
+        },
+        {
+          "id": "324",
+          "title": "临时邮箱服务",
+          "url": "https://www.ogo.codes/zh-cn/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:324",
+          "category": "开发工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:05:17.500Z"
+        },
+        {
+          "id": "325",
+          "title": "🔥🔥🔥【2026年4月最新版】ChatGPT Plus + Gemini AI Pro + Claude AI 免费获得&自主订阅&直冲教程分享，自己动手丰衣足食~🔥🔥🔥 - Feishu Docs",
+          "url": "https://ocnbgn2guk8i.feishu.cn/wiki/KLIDwUtTAiRtobkBEfHcHdxpnhg",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:325",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:05:17.500Z"
+        },
+        {
+          "id": "340",
+          "title": "MobiMusic",
+          "url": "https://mobi.likegamex.top/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:340",
+          "category": "游戏",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:05:28.992Z"
+        },
+        {
+          "id": "389",
+          "title": "Telegram群组搜索|频道搜索",
+          "url": "https://telesou.com/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:389",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:05:43.141Z"
+        },
+        {
+          "id": "407",
+          "title": "New API",
+          "url": "https://aiapi1.cc.cd/console/token",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:407",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:05:53.454Z"
+        },
+        {
+          "id": "415",
+          "title": "PanDownload Plus",
+          "url": "https://www.pandown.org/pd/download/PanDownload.php",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:415",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:05:58.072Z"
+        },
+        {
+          "id": "428",
+          "title": "大姨子的诱惑",
+          "url": "https://cd.sd/",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:428",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:06:08.325Z"
+        },
+        {
+          "id": "434",
+          "title": "ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海豚.json",
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E8%B1%9A.json",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:434",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:06:08.325Z"
+        },
+        {
+          "id": "442",
+          "title": "API 密钥 - Sub2API",
+          "url": "https://sub2.3bbb.cc.cd/keys",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:442",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:06:08.325Z"
+        },
+        {
+          "id": "450",
+          "title": "IP2free",
+          "url": "https://www.ip2free.com/cn/freeProxy",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:450",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:06:12.838Z"
+        },
+        {
+          "id": "468",
+          "title": "Gleam免费二级域名",
+          "url": "https://sld.0n.pub/user/domains",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:468",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:06:22.963Z"
+        },
+        {
+          "id": "478",
+          "title": "Aerolink — One API key for every AI agent",
+          "url": "https://aerolink.lat/dashboard/api-keys",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:478",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:06:22.963Z"
+        },
+        {
+          "id": "532",
+          "title": "小兔云-商城",
+          "url": "https://xiaotu.moe/cart/goodsList.htm?fpg_id=3&spg_id=100",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:532",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:06:40.487Z"
+        },
+        {
+          "id": "534",
+          "title": "LogVar弹幕API",
+          "url": "https://owndanmu.vercel.app/760023",
+          "path": [
+            "书签栏"
+          ],
+          "source": "君",
+          "folderId": "1",
+          "key": "君:534",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:06:40.487Z"
+        },
+        {
+          "id": "236",
+          "title": "【　　　】牢记搜书四种地址发布方式，网址永不丢失！！！ - 网站事务 - 搜书吧 - Powered by Discuz!",
+          "url": "https://pvew5.pver549cn.com/forum.php?mod=viewthread&tid=263486&extra=page%3D1",
+          "path": [
+            "其他书签"
+          ],
+          "source": "君",
+          "folderId": "2",
+          "key": "君:236",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:07:22.103Z"
+        },
+        {
+          "id": "250",
+          "title": "hohai 公益",
+          "url": "https://emby-npo.hohai.eu.org/web/index.html#!/startup/manuallogin.html?serverId=817f29b8af734735894fd90313d05841",
+          "path": [
+            "其他书签"
+          ],
+          "source": "君",
+          "folderId": "2",
+          "key": "君:250",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:07:25.951Z"
+        },
+        {
+          "id": "470",
+          "title": "管理域名 | KataBump --- Manage domain | KataBump",
+          "url": "https://dashboard.katabump.com/domains/manage?id=37948&success=created",
+          "path": [
+            "其他书签"
+          ],
+          "source": "君",
+          "folderId": "2",
+          "key": "君:470",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:07:28.973Z"
+        },
+        {
+          "id": "425",
+          "title": "仪表盘 - MISUB",
+          "url": "https://misub-8ca.pages.dev/dashboard",
+          "path": [
+            "其他书签"
+          ],
+          "source": "君",
+          "folderId": "2",
+          "key": "君:425",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:07:28.973Z"
+        },
+        {
+          "id": "423",
+          "title": "CF-NEW",
+          "url": "https://cfts-ccx.pages.dev/e2b2965e-380f-4654-94b6-3eb4d7ac1d46",
+          "path": [
+            "其他书签"
+          ],
+          "source": "君",
+          "folderId": "2",
+          "key": "君:423",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:07:28.973Z"
+        },
+        {
+          "id": "546",
+          "title": "vps789-淘鸡-全网VPS比价平台，寻找最便宜、最合适、高性价比的vps",
+          "url": "https://vps789.com/vpsall/",
+          "path": [
+            "其他书签"
+          ],
+          "source": "君",
+          "folderId": "2",
+          "key": "君:546",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:07:28.973Z"
+        },
+        {
+          "id": "13",
+          "title": "678辅助网_最大免费游戏辅助网_热门辅助资源网_我爱辅助网",
+          "url": "https://www.678cv.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:13",
+          "category": "游戏",
+          "status": "ok",
+          "httpStatus": 200,
+          "checkedAt": "2026-08-23T02:07:39.978Z"
+        },
+        {
+          "id": "14",
+          "title": "七天辅助网-全网最火爆的游戏辅助网,专注于分享我爱辅助精品辅助-菜鸟资源网",
+          "url": "https://www.cnucw.com/url/107.html",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:14",
+          "category": "游戏",
+          "status": "review",
+          "httpStatus": 520,
+          "checkedAt": "2026-08-23T02:07:39.978Z"
+        },
+        {
+          "id": "15",
+          "title": "小黑辅助网_最大免费游戏辅助网_热门辅助资源网_我爱辅助网",
+          "url": "https://www.xh222.cc/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:15",
+          "category": "游戏",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:07:39.978Z"
+        },
+        {
+          "id": "17",
+          "title": "网址导航 - 菜鸟资源网-小黑屋资源网技术导航最全面的游戏资源分享平台",
+          "url": "https://www.cnucw.com/url/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:17",
+          "category": "游戏",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:07:51.029Z"
+        },
+        {
+          "id": "18",
+          "title": "游戏辅助_技术导航网",
+          "url": "https://www.jishu5.com/category-4.html",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:18",
+          "category": "游戏",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:07:51.029Z"
+        },
+        {
+          "id": "25",
+          "title": "辅助分类 - 技术导航",
+          "url": "https://www.daohangtx.com/m/ls/2.html",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:25",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:07:51.029Z"
+        },
+        {
+          "id": "26",
+          "title": "末世资源网-劲爆游戏辅助网-免费辅助官网-原创资源网-专注分享绿色软件",
+          "url": "https://www.moshizy.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:26",
+          "category": "游戏",
+          "status": "review",
+          "httpStatus": 526,
+          "checkedAt": "2026-08-23T02:08:01.668Z"
+        },
+        {
+          "id": "31",
+          "title": "免安装 - 游戏天堂",
+          "url": "https://www.zzzzz688.com/tag/%E5%85%8D%E5%AE%89%E8%A3%85",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:31",
+          "category": "游戏",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:08:01.668Z"
+        },
+        {
+          "id": "33",
+          "title": "免费万能打开文件的APP推荐（方便实用的文件打开工具大盘点） - 赤峰电脑",
+          "url": "https://www.ccffcc.com/article-2589-1.html",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:33",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:08:01.668Z"
+        },
+        {
+          "id": "46",
+          "title": "在Telegram上按频道和群组搜索",
+          "url": "https://cn.telegram-store.com/catalog/search",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:46",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:08:12.137Z"
+        },
+        {
+          "id": "51",
+          "title": "手游 - 手机版 - Powered by Discuz!",
+          "url": "https://faxdao.com/forum.php?gid=1",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:51",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:08:23.065Z"
+        },
+        {
+          "id": "54",
+          "title": "一零辅助网 - 全网最大免费游戏辅助网,热门辅助资源网,我爱辅助网！",
+          "url": "https://www.10fz.cc/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:54",
+          "category": "游戏",
+          "status": "ok",
+          "httpStatus": 200,
+          "checkedAt": "2026-08-23T02:08:23.065Z"
+        },
+        {
+          "id": "58",
+          "title": "酷玩资源网-酷玩吧,SWTHIC资源,游戏辅助网,每日分享大量优质软件资源,游戏单机资源！",
+          "url": "https://www.kuwanb.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:58",
+          "category": "游戏",
+          "status": "ok",
+          "httpStatus": 200,
+          "checkedAt": "2026-08-23T02:08:23.065Z"
+        },
+        {
+          "id": "60",
+          "title": "付费和平精英辅助 - 手游科技辅助发卡网",
+          "url": "http://www.myxlxx.com/category-1.html",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:60",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:08:33.393Z"
+        },
+        {
+          "id": "72",
+          "title": "酒入辅助游戏论坛 - 辅助工具|最新:HTTPS://Www.2Fzb.BiZ 手机版",
+          "url": "https://www.jr34.xyz/portal.php?mod=index&mobile=2",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:72",
+          "category": "媒体资讯",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:08:43.846Z"
+        },
+        {
+          "id": "73",
+          "title": "免费可用游戏助手 - 七天辅助网 - 全网最火爆的游戏辅助网,专注于分享我爱辅助精品辅助！ - 第8页",
+          "url": "https://www.qtfzw520.xyz/sort/4/page/8",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:73",
+          "category": "游戏",
+          "status": "review",
+          "httpStatus": 530,
+          "checkedAt": "2026-08-23T02:08:43.846Z"
+        },
+        {
+          "id": "79",
+          "title": "技术导航网 - 学习技术从这里开始！",
+          "url": "https://www.jishu5.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:79",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:08:43.846Z"
+        },
+        {
+          "id": "96",
+          "title": "无敌云短信 | 免费中国接码平台",
+          "url": "https://www.clearcode.cn/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:96",
+          "category": "开发工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:08:52.250Z"
+        },
+        {
+          "id": "116",
+          "title": "Myflixer 官方网站 - 免费电影和连续剧",
+          "url": "https://myflixer.is/home",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:116",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:09:07.112Z"
+        },
+        {
+          "id": "118",
+          "title": "合租吧",
+          "url": "http://pay.hezuba.pro/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:118",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:09:07.112Z"
+        },
+        {
+          "id": "121",
+          "title": "机场VPN导航站",
+          "url": "https://jichangvpn.github.io/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:121",
+          "category": "开发工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:09:17.459Z"
+        },
+        {
+          "id": "126",
+          "title": "值得一读技术博客|技术文档|发现创造",
+          "url": "https://daily-blog.chlinlearn.top/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:126",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:09:17.459Z"
+        },
+        {
+          "id": "141",
+          "title": "Telegram相关 | 次元猫导航",
+          "url": "https://miaodh.net/telegramxiangguan#term-257",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:141",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:09:28.383Z"
+        },
+        {
+          "id": "149",
+          "title": "免费的周易学习占卜算卦算命智能玄学网站 - 卦语AI",
+          "url": "https://hexagram-ai.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:149",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:09:33.467Z"
+        },
+        {
+          "id": "163",
+          "title": "无版权图库-免费图片网站合集-AMZ123跨境导航",
+          "url": "https://www.amz123.com/tuku",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:163",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:09:40.928Z"
+        },
+        {
+          "id": "196",
+          "title": "频道(P2) | TGNAV - Telegram频道群组导航",
+          "url": "https://tgnav.github.io/p2/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:196",
+          "category": "开发工具",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:09:52.224Z"
+        },
+        {
+          "id": "212",
+          "title": "门户 - 手机版 - Powered by Discuz!",
+          "url": "https://pvew5.pver549cn.com/portal.php?mod=index&mobile=2",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:212",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:09:55.826Z"
+        },
+        {
+          "id": "540",
+          "title": "免费 AI API 中转站｜5.2 与 Grok 4.5｜无需注册 - JiuRelay",
+          "url": "https://jiurelay.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:540",
+          "category": "AI工具",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:10:06.599Z"
+        },
+        {
+          "id": "543",
+          "title": "摩羯座影视网 - 最新影视在线播放_免费下载_百度网盘分享",
+          "url": "https://www.mojiez.net/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "君",
+          "folderId": "3",
+          "key": "君:543",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:10:06.599Z"
+        },
+        {
+          "id": "17",
+          "title": "Dialogue.moe",
+          "url": "https://dialogue.moe/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "术",
+          "folderId": "3",
+          "key": "术:17",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:10:20.741Z"
+        },
+        {
+          "id": "45",
+          "title": "装逼生成器,装逼制图神器",
+          "url": "https://c.tianhezulin.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "术",
+          "folderId": "3",
+          "key": "术:45",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 0,
+          "checkedAt": "2026-08-23T02:10:39.856Z"
+        },
+        {
+          "id": "75",
+          "title": "PPTBOSS-在线PPT制作工具_免费PPT幻灯片制作软件_在线课件制作软件，提供精美PPT模板、PPT教程",
+          "url": "https://www.pptboss.com/",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "术",
+          "folderId": "3",
+          "key": "术:75",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:10:56.663Z"
+        },
+        {
+          "id": "101",
+          "title": "大学生必备的66个实用网站，从大一用到大四！安排！|教学|mooc|翻译|高校_网易订阅",
+          "url": "https://www.163.com/dy/article/G9LTUPIG0518I14H.html",
+          "path": [
+            "移动设备书签"
+          ],
+          "source": "术",
+          "folderId": "3",
+          "key": "术:101",
+          "category": "其他",
+          "status": "dead",
+          "httpStatus": 404,
+          "checkedAt": "2026-08-23T02:11:08.807Z"
+        }
+      ],
+      "reason": "cleanup"
+    }
+  ]
 }
