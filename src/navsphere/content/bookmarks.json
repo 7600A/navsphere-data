@@ -7226,7 +7226,9 @@
       "folderId": "3",
       "key": "君:193",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "195",
@@ -7239,7 +7241,9 @@
       "folderId": "3",
       "key": "君:195",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "196",
@@ -7252,7 +7256,9 @@
       "folderId": "3",
       "key": "君:196",
       "category": "开发工具",
-      "status": "unchecked"
+      "status": "dead",
+      "httpStatus": 404,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "197",
@@ -7265,7 +7271,9 @@
       "folderId": "3",
       "key": "君:197",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "198",
@@ -7278,7 +7286,9 @@
       "folderId": "3",
       "key": "君:198",
       "category": "媒体资讯",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "200",
@@ -7291,7 +7301,9 @@
       "folderId": "3",
       "key": "君:200",
       "category": "其他",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "201",
@@ -7304,7 +7316,9 @@
       "folderId": "3",
       "key": "君:201",
       "category": "开发工具",
-      "status": "unchecked"
+      "status": "ok",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "202",
@@ -7317,7 +7331,9 @@
       "folderId": "3",
       "key": "君:202",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "203",
@@ -7330,7 +7346,9 @@
       "folderId": "3",
       "key": "君:203",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 530,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "204",
@@ -7343,7 +7361,9 @@
       "folderId": "3",
       "key": "君:204",
       "category": "其他",
-      "status": "unchecked"
+      "status": "review",
+      "httpStatus": 403,
+      "checkedAt": "2026-08-23T02:09:52.224Z"
     },
     {
       "id": "205",
