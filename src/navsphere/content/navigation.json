@@ -360,6 +360,15 @@
           "icon": "/assets/favicon_1789382774665.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382829318",
+          "title": "Grok",
+          "href": "https://grok.com/",
+          "description": "Grok is an AI assistant built by SpaceXAI. Chat, create images, write code, and get real-time answers from the web and X.",
+          "icon": "/assets/favicon_1789382832712.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
