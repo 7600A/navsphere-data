@@ -351,6 +351,15 @@
           "icon": "/assets/favicon_1789382750560.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382771960",
+          "title": "Claude",
+          "href": "https://claude.ai/new",
+          "description": "Claude is Anthropic",
+          "icon": "/assets/favicon_1789382774665.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
