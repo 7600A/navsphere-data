@@ -369,6 +369,15 @@
           "icon": "/assets/favicon_1789382832712.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382854265",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/app?hl=zh",
+          "description": "访问 gemini.google.com",
+          "icon": "/assets/favicon_1789382857393.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
