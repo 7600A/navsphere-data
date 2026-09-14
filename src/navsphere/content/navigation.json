@@ -378,6 +378,15 @@
           "icon": "/assets/favicon_1789382857393.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382886769",
+          "title": "Agent Router",
+          "href": "https://agentrouter.org/console/personal",
+          "description": "Agent Router - 内部大模型 API 网关管理控制台",
+          "icon": "/assets/favicon_1789382890180.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
