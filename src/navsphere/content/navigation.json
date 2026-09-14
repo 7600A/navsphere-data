@@ -42,6 +42,15 @@
           "icon": "/assets/favicon_1789381752339.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789381820153",
+          "title": "饭太硬 | 导航",
+          "href": "https://www.xn--sss604efuw.net/",
+          "description": "饭太硬的自留地",
+          "icon": "/assets/favicon_1789381826249.jpg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
