@@ -79,6 +79,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ygyydm5470.pages.dev",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382068411",
+          "title": "SpeedTest by OpenSpeedTest™ HTML5 Internet Speed Test.",
+          "href": "https://openspeedtest.com/",
+          "description": "Run a free Internet Speed Test in your browser. No app needed. Fast, accurate HTML5 SpeedTest for any device measuring download, upload, ping, and jitter.",
+          "icon": "/assets/favicon_1789382073049.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
