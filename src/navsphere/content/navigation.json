@@ -33,6 +33,15 @@
           "icon": "/assets/favicon_1789381716176.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789381748822",
+          "title": "予初Media Server",
+          "href": "https://aaa.yusen6.ccwu.cc/web/index.html#!/home",
+          "description": "予初Media Server",
+          "icon": "/assets/favicon_1789381752339.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
