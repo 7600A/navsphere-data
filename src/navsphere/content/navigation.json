@@ -88,6 +88,15 @@
           "icon": "/assets/favicon_1789382073049.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382175225",
+          "title": "Test",
+          "href": "https://test.ustc.edu.cn/",
+          "description": "访问 test.ustc.edu.cn",
+          "icon": "/assets/favicon_1789382178620.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
