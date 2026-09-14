@@ -335,6 +335,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1789382614166",
+      "title": "ai",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
