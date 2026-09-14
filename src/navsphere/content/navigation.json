@@ -342,7 +342,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1789382747819",
+          "title": "Chatgpt",
+          "href": "https://chatgpt.com/",
+          "description": "访问 chatgpt.com",
+          "icon": "/assets/favicon_1789382750560.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
