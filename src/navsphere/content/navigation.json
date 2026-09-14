@@ -124,6 +124,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.domain.digitalplat.org",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382421654",
+          "title": "身份验证 | HongHong",
+          "href": "https://hhll.h2333.ggff.net/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=hhll.h2333.ggff.net",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
