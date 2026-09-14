@@ -106,6 +106,15 @@
           "icon": "/assets/favicon_1789382238695.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382310775",
+          "title": "CloudFlare优选IP_CF优选电信IP_CF优选电信IP_CF优选移动IP_CF优选联通IP_麒麟域名检测",
+          "href": "https://api.uouin.com/cloudflare.html",
+          "description": "CloudFlare为全球知名的CDN服务商，免费提供不限流量的CC防护、DDOS防护、CDN加速，但许多节点IP国内访问不佳，甚至无法打开。CloudFlare优选IP通过在全国部署节点测试CloudFlare的公布的IP地址，从而优选国内访问质量较好的IP地址，并可通过官方的SAAS方式A记录接入或购买官方收费版本即可自定义接入，优选IP每10分钟自动更新一次。",
+          "icon": "/assets/favicon_1789382314439.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
