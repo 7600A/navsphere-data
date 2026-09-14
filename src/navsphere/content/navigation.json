@@ -24,6 +24,15 @@
           "icon": "/assets/favicon_1785156294841.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789381711667",
+          "title": "MoonTVPlus",
+          "href": "https://moontvplus-uz.vercel.app/",
+          "description": "影视聚合",
+          "icon": "/assets/favicon_1789381716176.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
