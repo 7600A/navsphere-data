@@ -97,6 +97,15 @@
           "icon": "/assets/favicon_1789382178620.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382236349",
+          "title": "登录 - DNSHE",
+          "href": "https://my.dnshe.com/clientarea.php?language=chinese&autolang=1",
+          "description": "",
+          "icon": "/assets/favicon_1789382238695.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
