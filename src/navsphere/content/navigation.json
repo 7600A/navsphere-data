@@ -387,6 +387,15 @@
           "icon": "/assets/favicon_1789382890180.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789382961970",
+          "title": "ZError - 开源的大学生AI题库",
+          "href": "https://app.zerror.cc/",
+          "description": "ZError - 开源的大AI本地题库软件，支持OCS网课助手",
+          "icon": "/assets/favicon_1789382964052.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
