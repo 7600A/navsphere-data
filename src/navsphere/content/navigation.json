@@ -452,6 +452,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dq3s.b4e5w4dqwde.com",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789450541975",
+          "title": "老王论坛",
+          "href": "https://laowang.vip/vue.php",
+          "description": ",老王论坛",
+          "icon": "/assets/favicon_1789450544903.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
