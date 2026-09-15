@@ -178,6 +178,15 @@
           "icon": "/assets/favicon_1789452042081.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789456481680",
+          "title": "CF EDT 导航 | EDT AIO NAV - BestCF.pages.dev | Cloudflare EdgeTunnel",
+          "href": "https://bestcf.pages.dev/",
+          "description": "Cloudflare EDT 导航 - 搭建Cloudflare节点的第一站 - BestCF.pages.dev",
+          "icon": "/assets/favicon_1789456516238.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
