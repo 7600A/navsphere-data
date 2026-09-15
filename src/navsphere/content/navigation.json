@@ -424,6 +424,15 @@
           "icon": "/assets/favicon_1789447509414.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789448795182",
+          "title": "老王论坛",
+          "href": "https://laowang.vip/vue.php",
+          "description": ",老王论坛",
+          "icon": "/assets/favicon_1789448797326.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
