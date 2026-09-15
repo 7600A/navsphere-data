@@ -415,7 +415,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1789447507624",
+          "title": "Linux",
+          "href": "https://linux.do/",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1789447509414.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
