@@ -51,6 +51,15 @@
           "icon": "/assets/favicon_1789381826249.jpg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789447481202",
+          "title": "GimyTube",
+          "href": "https://gimytube.com/",
+          "description": "",
+          "icon": "/assets/favicon_1789447483362.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
