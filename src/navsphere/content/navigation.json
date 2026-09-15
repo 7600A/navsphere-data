@@ -204,6 +204,15 @@
           "icon": "/assets/favicon_1789451967734.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789452318210",
+          "title": "Pdpb",
+          "href": "https://pdpb.cn/",
+          "description": "访问 pdpb.cn",
+          "icon": "/assets/favicon_1789452321311.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [
