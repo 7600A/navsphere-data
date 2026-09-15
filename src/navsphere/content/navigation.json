@@ -414,6 +414,15 @@
           "icon": "/assets/favicon_1789382964052.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789450673800",
+          "title": "S家",
+          "href": "https://j13042981.cloudflareaccess.com/cdn-cgi/access/login/s2a-f6737b.luvia.de5.net?kid=10497c76f6938f1bbbbdf4fc632d448748e38a1acd0da843098d547e8926a0ed&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjA0MjhiNjU3ZGE3MjE2OGQ1NjNjZGViYWFmM2ZmM2ZmMDBjOTcyYjc1NzRlOWZlMDczYmY4MmRlODhhZGZjODQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjEwNDk3Yzc2ZjY5MzhmMWJiYmJkZjRmYzYzMmQ0NDg3NDhlMzhhMWFjZDBkYTg0MzA5OGQ1NDdlODkyNmEwZWQiLCJob3N0bmFtZSI6InMyYS1mNjczN2IubHV2aWEuZGU1Lm5ldCIsInJlZGlyZWN0X3VybCI6Ii9hZG1pbi9kYXNoYm9hcmQiLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzg5NDUwOTc2LCJuYmYiOjE3ODk0NTA2NzYsImlhdCI6MTc4OTQ1MDY3NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IkpQIiwiYXBwX3Nlc3Npb25faGFzaCI6IjY2MDBkOGExZjEyNzNlODE0ZjE3NTJiMDdiYzExOTIyYjg4ZjhkOGYwMzQ2NmMwNzE2MThkZGQyM2JlMTYxMGEifQ.Gm5ZM_gRef5rKC5r0CMpcpdADjjS3p9oF1jHBXHIbJ4khRzE6DoouBp10Or2SlNtZ5hs7UaQC4GJmQ6giOSv4iPGMEcYBG0gRDs_W6jTU6y03nx9ujZw4CTHRdKKs08XNIqvE0Jy06penqGSU9YSLZzkRoEZOzgC3zIH4TEVqOmKIsWHq7WB6HYRZniqtCVtscUVu6DdfXnmA4s2y36_K24ngYFYGL71GyIqpbJlfbsioDq40eWeTZsbCfI6S-mugqwGq3nRuM_Erho7JS1BBql888t235m3iP_OorjrgNW4NZlX-QkV8a-IotUP7anobf-cjdZAhAUZfjktfGuiqg&redirect_url=%2Fadmin%2Fdashboard",
+          "description": "",
+          "icon": "https://j13042981.cloudflareaccess.com/data:image/svg+xml,%3Csvg xmlns=",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
