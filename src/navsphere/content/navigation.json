@@ -433,6 +433,15 @@
           "icon": "/assets/favicon_1789448797326.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789450428329",
+          "title": "NodeLoc",
+          "href": "https://www.nodeloc.com/",
+          "description": "自由、平等、友好、开放、有趣的互联网交流社区",
+          "icon": "/assets/favicon_1789450434790.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
