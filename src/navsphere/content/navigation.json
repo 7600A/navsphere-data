@@ -580,6 +580,15 @@
           "icon": "/assets/favicon_1789452157419.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789452702533",
+          "title": "极客苹果共享ID站",
+          "href": "https://iosid.lovable.app/",
+          "description": "收录全网免费的苹果共享ID网站，免费分享ios美区id、香港ID、日本ID等",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=iosid.lovable.app",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
