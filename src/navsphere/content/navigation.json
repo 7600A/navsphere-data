@@ -160,6 +160,15 @@
           "icon": "/assets/favicon_1789450589011.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789451913612",
+          "title": "Skylineconnect",
+          "href": "https://www.skylineconnect.io/products",
+          "description": "访问 www.skylineconnect.io",
+          "icon": "/assets/favicon_1789451925798.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
