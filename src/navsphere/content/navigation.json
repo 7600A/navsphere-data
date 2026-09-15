@@ -560,6 +560,15 @@
           "icon": "/assets/favicon_1789450568160.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789458851748",
+          "title": "阅读源",
+          "href": "https://www.yckceo.com/yuedu/shuyuan/index.html",
+          "description": "访问 www.yckceo.com",
+          "icon": "/assets/favicon_1789458858523.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
