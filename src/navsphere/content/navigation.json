@@ -555,6 +555,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1789452132860",
+      "title": "资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
