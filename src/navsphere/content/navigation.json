@@ -652,6 +652,15 @@
           "icon": "/assets/favicon_1789458323308.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789459829589",
+          "title": "Registry Mirror - 探索开源世界，发现优质项目",
+          "href": "https://833337.xyz/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=833337.xyz",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
