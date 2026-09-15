@@ -442,6 +442,15 @@
           "icon": "/assets/favicon_1789450434790.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789450628739",
+          "title": "Origin",
+          "href": "https://origin.v2ex.com/",
+          "description": "访问 origin.v2ex.com",
+          "icon": "/assets/favicon_1789450630525.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
