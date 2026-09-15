@@ -661,6 +661,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=833337.xyz",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789459922691",
+          "title": "PanSou 盘搜",
+          "href": "https://so.252035.xyz/",
+          "description": "",
+          "icon": "/assets/favicon_1789459926242.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
