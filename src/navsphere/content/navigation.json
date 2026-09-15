@@ -452,7 +452,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1789450401881",
+          "title": "🔒国外PO解站 | 资源收藏夹",
+          "href": "https://zyscj.com/zy/soft/crackabroad.html#%E8%AE%BA%E5%9D%9B%E7%B1%BB",
+          "description": "收藏那些有用的东西，你的资源百科全书。",
+          "icon": "/assets/favicon_1789450404156.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
