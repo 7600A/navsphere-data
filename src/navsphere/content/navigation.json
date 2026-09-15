@@ -589,6 +589,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=iosid.lovable.app",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789452781623",
+          "title": "Yckceo",
+          "href": "https://www.yckceo.com/yuedu/shuyuan/index.html",
+          "description": "访问 www.yckceo.com",
+          "icon": "/assets/favicon_1789452799393.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
