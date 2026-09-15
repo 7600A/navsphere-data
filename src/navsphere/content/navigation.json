@@ -187,6 +187,15 @@
           "icon": "/assets/favicon_1789456516238.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789456543730",
+          "title": "CloudFlare优选域名汇总 - CF优选域名",
+          "href": "https://cf.090227.xyz/",
+          "description": "CloudFlare优选域名汇总 - 提供优质的CloudFlare CDN节点信息",
+          "icon": "/assets/favicon_1789456556587.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
