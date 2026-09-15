@@ -442,6 +442,15 @@
           "icon": "/assets/favicon_1789450434790.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789450460768",
+          "title": "�����-����С˵������̳ -  Powered by Discuz!",
+          "href": "https://dq3s.b4e5w4dqwde.com/",
+          "description": "������ṩ���ָ�ʽС˵����",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dq3s.b4e5w4dqwde.com",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
