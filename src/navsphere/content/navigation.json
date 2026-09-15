@@ -443,7 +443,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1789450507653",
+          "title": "搜书把",
+          "href": "https://dq3s.b4e5w4dqwde.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dq3s.b4e5w4dqwde.com",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
