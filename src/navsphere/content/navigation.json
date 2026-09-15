@@ -451,6 +451,15 @@
           "icon": "/assets/favicon_1789450630525.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789450643891",
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1789450645458.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
