@@ -456,6 +456,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1789805700992",
+      "title": "工具",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
