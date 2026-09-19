@@ -481,6 +481,15 @@
           "icon": "/assets/favicon_1789805744351.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789805873825",
+          "title": "storage.to - 快速文件共享",
+          "href": "https://storage.to/zh",
+          "description": "上传最高 25GB 的文件。不需要注册。无干扰性广告。没有跟踪。由 Cloudflare 提供支持的快速、私密文件共享。",
+          "icon": "/assets/favicon_1789805879431.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
