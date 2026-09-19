@@ -490,6 +490,15 @@
           "icon": "/assets/favicon_1789805879431.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789805890882",
+          "title": "网站源码获取",
+          "href": "https://toolsina.com/zh/source-code-downloader/",
+          "description": "访问 toolsina.com",
+          "icon": "/assets/favicon_1789805893878.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
