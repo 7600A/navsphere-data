@@ -1,6 +1,79 @@
 {
   "navigationItems": [
     {
+      "id": "1789382614166",
+      "title": "ai",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1789382747819",
+          "title": "Chatgpt",
+          "href": "https://chatgpt.com/",
+          "description": "访问 chatgpt.com",
+          "icon": "/assets/favicon_1789382750560.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1789382771960",
+          "title": "Claude",
+          "href": "https://claude.ai/new",
+          "description": "Claude is Anthropic",
+          "icon": "/assets/favicon_1789382774665.svg",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1789382829318",
+          "title": "Grok",
+          "href": "https://grok.com/",
+          "description": "Grok is an AI assistant built by SpaceXAI. Chat, create images, write code, and get real-time answers from the web and X.",
+          "icon": "/assets/favicon_1789382832712.svg",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1789382854265",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/app?hl=zh",
+          "description": "访问 gemini.google.com",
+          "icon": "/assets/favicon_1789382857393.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1789382886769",
+          "title": "Agent Router",
+          "href": "https://agentrouter.org/console/personal",
+          "description": "Agent Router - 内部大模型 API 网关管理控制台",
+          "icon": "/assets/favicon_1789382890180.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1789382961970",
+          "title": "ZError - 开源的大学生AI题库",
+          "href": "https://app.zerror.cc/",
+          "description": "ZError - 开源的大AI本地题库软件，支持OCS网课助手",
+          "icon": "/assets/favicon_1789382964052.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1789450673800",
+          "title": "Sub2",
+          "href": "https://j13042981.cloudflareaccess.com/cdn-cgi/access/login/s2a-f6737b.luvia.de5.net?kid=10497c76f6938f1bbbbdf4fc632d448748e38a1acd0da843098d547e8926a0ed&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjA0MjhiNjU3ZGE3MjE2OGQ1NjNjZGViYWFmM2ZmM2ZmMDBjOTcyYjc1NzRlOWZlMDczYmY4MmRlODhhZGZjODQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjEwNDk3Yzc2ZjY5MzhmMWJiYmJkZjRmYzYzMmQ0NDg3NDhlMzhhMWFjZDBkYTg0MzA5OGQ1NDdlODkyNmEwZWQiLCJob3N0bmFtZSI6InMyYS1mNjczN2IubHV2aWEuZGU1Lm5ldCIsInJlZGlyZWN0X3VybCI6Ii9hZG1pbi9kYXNoYm9hcmQiLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzg5NDUwOTc2LCJuYmYiOjE3ODk0NTA2NzYsImlhdCI6MTc4OTQ1MDY3NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IkpQIiwiYXBwX3Nlc3Npb25faGFzaCI6IjY2MDBkOGExZjEyNzNlODE0ZjE3NTJiMDdiYzExOTIyYjg4ZjhkOGYwMzQ2NmMwNzE2MThkZGQyM2JlMTYxMGEifQ.Gm5ZM_gRef5rKC5r0CMpcpdADjjS3p9oF1jHBXHIbJ4khRzE6DoouBp10Or2SlNtZ5hs7UaQC4GJmQ6giOSv4iPGMEcYBG0gRDs_W6jTU6y03nx9ujZw4CTHRdKKs08XNIqvE0Jy06penqGSU9YSLZzkRoEZOzgC3zIH4TEVqOmKIsWHq7WB6HYRZniqtCVtscUVu6DdfXnmA4s2y36_K24ngYFYGL71GyIqpbJlfbsioDq40eWeTZsbCfI6S-mugqwGq3nRuM_Erho7JS1BBql888t235m3iP_OorjrgNW4NZlX-QkV8a-IotUP7anobf-cjdZAhAUZfjktfGuiqg&redirect_url=%2Fadmin%2Fdashboard",
+          "description": "",
+          "icon": "https://j13042981.cloudflareaccess.com/data:image/svg+xml,%3Csvg xmlns=",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1785156215834",
       "title": "影视",
       "icon": "FolderKanban",
@@ -416,79 +489,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1789382614166",
-      "title": "ai",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1789382747819",
-          "title": "Chatgpt",
-          "href": "https://chatgpt.com/",
-          "description": "访问 chatgpt.com",
-          "icon": "/assets/favicon_1789382750560.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1789382771960",
-          "title": "Claude",
-          "href": "https://claude.ai/new",
-          "description": "Claude is Anthropic",
-          "icon": "/assets/favicon_1789382774665.svg",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1789382829318",
-          "title": "Grok",
-          "href": "https://grok.com/",
-          "description": "Grok is an AI assistant built by SpaceXAI. Chat, create images, write code, and get real-time answers from the web and X.",
-          "icon": "/assets/favicon_1789382832712.svg",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1789382854265",
-          "title": "Gemini",
-          "href": "https://gemini.google.com/app?hl=zh",
-          "description": "访问 gemini.google.com",
-          "icon": "/assets/favicon_1789382857393.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1789382886769",
-          "title": "Agent Router",
-          "href": "https://agentrouter.org/console/personal",
-          "description": "Agent Router - 内部大模型 API 网关管理控制台",
-          "icon": "/assets/favicon_1789382890180.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1789382961970",
-          "title": "ZError - 开源的大学生AI题库",
-          "href": "https://app.zerror.cc/",
-          "description": "ZError - 开源的大AI本地题库软件，支持OCS网课助手",
-          "icon": "/assets/favicon_1789382964052.ico",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1789450673800",
-          "title": "Sub2",
-          "href": "https://j13042981.cloudflareaccess.com/cdn-cgi/access/login/s2a-f6737b.luvia.de5.net?kid=10497c76f6938f1bbbbdf4fc632d448748e38a1acd0da843098d547e8926a0ed&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjA0MjhiNjU3ZGE3MjE2OGQ1NjNjZGViYWFmM2ZmM2ZmMDBjOTcyYjc1NzRlOWZlMDczYmY4MmRlODhhZGZjODQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjEwNDk3Yzc2ZjY5MzhmMWJiYmJkZjRmYzYzMmQ0NDg3NDhlMzhhMWFjZDBkYTg0MzA5OGQ1NDdlODkyNmEwZWQiLCJob3N0bmFtZSI6InMyYS1mNjczN2IubHV2aWEuZGU1Lm5ldCIsInJlZGlyZWN0X3VybCI6Ii9hZG1pbi9kYXNoYm9hcmQiLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzg5NDUwOTc2LCJuYmYiOjE3ODk0NTA2NzYsImlhdCI6MTc4OTQ1MDY3NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IkpQIiwiYXBwX3Nlc3Npb25faGFzaCI6IjY2MDBkOGExZjEyNzNlODE0ZjE3NTJiMDdiYzExOTIyYjg4ZjhkOGYwMzQ2NmMwNzE2MThkZGQyM2JlMTYxMGEifQ.Gm5ZM_gRef5rKC5r0CMpcpdADjjS3p9oF1jHBXHIbJ4khRzE6DoouBp10Or2SlNtZ5hs7UaQC4GJmQ6giOSv4iPGMEcYBG0gRDs_W6jTU6y03nx9ujZw4CTHRdKKs08XNIqvE0Jy06penqGSU9YSLZzkRoEZOzgC3zIH4TEVqOmKIsWHq7WB6HYRZniqtCVtscUVu6DdfXnmA4s2y36_K24ngYFYGL71GyIqpbJlfbsioDq40eWeTZsbCfI6S-mugqwGq3nRuM_Erho7JS1BBql888t235m3iP_OorjrgNW4NZlX-QkV8a-IotUP7anobf-cjdZAhAUZfjktfGuiqg&redirect_url=%2Fadmin%2Fdashboard",
-          "description": "",
-          "icon": "https://j13042981.cloudflareaccess.com/data:image/svg+xml,%3Csvg xmlns=",
-          "useDefaultIcon": false,
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1789382628979",
