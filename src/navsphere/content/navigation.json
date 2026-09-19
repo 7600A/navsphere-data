@@ -472,6 +472,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=833337.xyz",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789805742154",
+          "title": "网盘解析",
+          "href": "https://pdpb.cn/",
+          "description": "访问 pdpb.cn",
+          "icon": "/assets/favicon_1789805744351.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
