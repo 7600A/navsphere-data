@@ -499,6 +499,15 @@
           "icon": "/assets/favicon_1789805893878.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789877175553",
+          "title": "传文件，传文本，传屏幕，传实时视频 - 轻松传",
+          "href": "https://easychuan.cn/",
+          "description": "只需打开网页，手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
+          "icon": "/assets/favicon_1789877182025.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
