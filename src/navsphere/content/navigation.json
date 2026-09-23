@@ -508,6 +508,15 @@
           "icon": "/assets/favicon_1789877182025.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1790164947429",
+          "title": "应用监测",
+          "href": "http://127.0.0.1:5600/#/activity/ARTX7600/view/",
+          "description": "访问 127.0.0.1",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
