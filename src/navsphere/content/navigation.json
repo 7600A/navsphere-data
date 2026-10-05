@@ -138,6 +138,15 @@
       "subCategories": []
     },
     {
+      "id": "1791192897818",
+      "title": "媒体",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1785156531322",
       "title": "节点",
       "icon": "FolderKanban",
@@ -528,15 +537,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1791192897818",
-      "title": "媒体",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
