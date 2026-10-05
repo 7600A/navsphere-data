@@ -529,6 +529,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1791192897818",
+      "title": "媒体",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
