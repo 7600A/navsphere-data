@@ -143,7 +143,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1791192907653",
+          "title": "X。尽是新鲜事 / X",
+          "href": "https://x.com/home?lang=zh",
+          "description": "从突发新闻和娱乐资讯到体坛风云和政治时事，纵览事件全程，获悉实时评论。",
+          "icon": "/assets/favicon_1791192925955.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
