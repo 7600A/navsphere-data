@@ -508,6 +508,15 @@
           "icon": "/assets/favicon_1789459926242.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1791367525283",
+          "title": "首页 | TGNAV - Telegram导航",
+          "href": "https://www.tgnav.org/",
+          "description": "TGNAV (Telegram Navigation) - Telegram频道群组机器人导航。收录Telegram上的优质公开频道、群组、机器人，打造高质量的Telegram导航平台。从20000+热门资源中精心筛选，为您提供更精彩、更安全的Telegram导航服务！",
+          "icon": "/assets/favicon_1791367529833.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
