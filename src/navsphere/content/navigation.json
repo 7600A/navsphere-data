@@ -87,6 +87,15 @@
           "icon": "/assets/favicon_1791362611752.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1791362633444",
+          "title": "NavSphere",
+          "href": "https://navsphere-7600a.pages.dev/admin",
+          "description": "A modern navigation platform",
+          "icon": "https://navsphere-7600a.pages.dev/favicon.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
