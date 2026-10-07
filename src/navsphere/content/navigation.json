@@ -78,6 +78,15 @@
           "icon": "/assets/favicon_1791254284329.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1791362603399",
+          "title": "Hark — 登录",
+          "href": "https://hark.com/chat",
+          "description": "",
+          "icon": "/assets/favicon_1791362611752.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
