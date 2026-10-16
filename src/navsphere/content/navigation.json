@@ -188,6 +188,15 @@
           "icon": "/assets/favicon_1791255191275.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1792149362376",
+          "title": "学习通",
+          "href": "https://i.chaoxing.com/base?ws=1&t=1792140143497",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.chaoxing.com",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
