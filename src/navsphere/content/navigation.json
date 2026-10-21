@@ -526,6 +526,15 @@
           "icon": "/assets/favicon_1791367529833.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1792563385969",
+          "title": "松果盘搜 - 夸克百度网盘资源搜索平台",
+          "href": "https://wpss.best/",
+          "description": "松果盘搜是专业的网盘资源搜索平台，聚合夸克网盘、百度网盘资源，快速查找并转存所需文件。",
+          "icon": "/assets/favicon_1792563421690.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
