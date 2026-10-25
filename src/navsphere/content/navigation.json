@@ -342,15 +342,6 @@
           "icon": "/assets/favicon_1789456556587.png",
           "useDefaultIcon": false,
           "enabled": true
-        },
-        {
-          "id": "1792723918288",
-          "title": "3x-ui",
-          "href": "http://127.0.0.1:15443/G67rMZFtWgtdUtInAi/panel/inbounds",
-          "description": "访问 127.0.0.1",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
-          "useDefaultIcon": false,
-          "enabled": true
         }
       ],
       "subCategories": []
