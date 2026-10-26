@@ -115,7 +115,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1792992673051",
+          "title": "WebRTC Leak Test - BrowserLeaks",
+          "href": "https://browserleaks.com/webrtc",
+          "description": "The WebRTC Leak Test is a critical tool for anyone using a VPN, as it leverages the WebRTC API to communicate with a STUN server and potentially reveal the user",
+          "icon": "/assets/favicon_1792992678699.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
