@@ -629,6 +629,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1792992664663",
+      "title": "ip检测",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
