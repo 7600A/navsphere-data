@@ -96,15 +96,6 @@
           "icon": "https://navsphere-7600a.pages.dev/favicon.ico",
           "useDefaultIcon": false,
           "enabled": true
-        },
-        {
-          "id": "1792888499556",
-          "title": "Claude AI IP 检测 - IP纯净度 - Claude IP 风险查询 - Net.Coffee",
-          "href": "https://ip.net.coffee/claude/",
-          "description": "Claude IP 检测，Claude IP的纯净度和信任评分，判断该 IP 是否为住宅IP或机房IP，识别Claude IP是否是 Tor 与高风险 IP。同时展示默认出口 IP 和 Cloudflare 出口 IP，做分流查询。",
-          "icon": "/assets/favicon_1792888507486.svg",
-          "useDefaultIcon": false,
-          "enabled": true
         }
       ],
       "subCategories": []
