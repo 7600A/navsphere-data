@@ -142,6 +142,15 @@
           "icon": "/assets/favicon_1792992704406.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1792992715718",
+          "title": "查看我的 IP 地址 | 查询本机 IP 地址及归属地 | ip.skk.moe | Sukka",
+          "href": "https://ip.skk.moe/",
+          "description": "查看你当前网络的 IP 地址、位置信息 和 网络连通性 | IP.SKK.MOE，一个可以查看本机 IP 地址及其归属地、测试网络策略路由、查询递归 DNS 出口 IP、查看 CDN 命中节点等的网络环境测试工具 | ip.skk.moe | Sukka | https://ip.skk.moe",
+          "icon": "/assets/favicon_1792992720176.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
