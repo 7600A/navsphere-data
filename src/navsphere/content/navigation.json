@@ -133,6 +133,15 @@
           "icon": "/assets/favicon_1792992692826.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1792992701893",
+          "title": "Dnsleaktest",
+          "href": "https://www.dnsleaktest.com/results.html",
+          "description": "访问 www.dnsleaktest.com",
+          "icon": "/assets/favicon_1792992704406.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
