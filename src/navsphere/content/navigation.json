@@ -96,6 +96,15 @@
           "icon": "https://navsphere-7600a.pages.dev/favicon.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1793165981307",
+          "title": "deepseek.com",
+          "href": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1793165984967.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
