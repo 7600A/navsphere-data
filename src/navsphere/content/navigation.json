@@ -105,6 +105,15 @@
           "icon": "/assets/favicon_1793165984967.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1793508525786",
+          "title": "DeepTutor",
+          "href": "http://127.0.0.1:3782/settings/llm?dt_workspace=",
+          "description": "访问 127.0.0.1",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
