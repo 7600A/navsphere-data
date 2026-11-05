@@ -397,6 +397,15 @@
           "icon": "/assets/favicon_1789456556587.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1793865929640",
+          "title": "Glass Panel",
+          "href": "https://glasspanel.mavita.kdns.fr/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=glasspanel.mavita.kdns.fr",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
