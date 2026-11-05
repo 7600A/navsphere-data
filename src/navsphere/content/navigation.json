@@ -690,6 +690,15 @@
           "icon": "/assets/favicon_1793344628607.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1793865958267",
+          "title": "Sublink Worker - 订阅链接转换工具",
+          "href": "https://sublink.mdcg.dpdns.org/?url=https%3A%2F%2Fvllmnfnl741sly5.eduk.cc.cd%2Fs%2FeyJ1IjoiYnRiayIsImUiOjE3ODg2MTk2NTkyNDQsInMiOiI0MWQ5MzNlNzUyM2E2ZGFhIn0%3Fprotocol%3Ddefault#",
+          "description": "Convert and optimize your subscription links easily",
+          "icon": "/assets/favicon_1793865970303.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
