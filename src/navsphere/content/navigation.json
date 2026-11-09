@@ -151,6 +151,15 @@
           "icon": "/assets/favicon_1794196883263.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794196995485",
+          "title": "ping | ping.pe",
+          "href": "https://ping.pe/212.135.212.77",
+          "description": "Live ping and MTR from 170+ locations worldwide. Check packet loss, latency and routes to any IP or domain, plus TCP port checks, DNS lookups and a real time BGP looking glass.",
+          "icon": "/assets/favicon_1794196999263.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
