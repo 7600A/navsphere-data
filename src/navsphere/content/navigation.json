@@ -282,15 +282,6 @@
           "enabled": true
         },
         {
-          "id": "1789382175225",
-          "title": "中科大测速",
-          "href": "https://test.ustc.edu.cn/",
-          "description": "访问 test.ustc.edu.cn",
-          "icon": "/assets/favicon_1789382178620.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "1789382236349",
           "title": "登录 - DNSHE",
           "href": "https://my.dnshe.com/clientarea.php?language=chinese&autolang=1",
