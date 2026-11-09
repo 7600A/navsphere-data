@@ -160,6 +160,15 @@
           "icon": "/assets/favicon_1794196999263.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794197068158",
+          "title": "Itdog",
+          "href": "https://www.itdog.cn/tcping/212.135.212.77%3A22",
+          "description": "访问 www.itdog.cn",
+          "icon": "/assets/favicon_1794197071041.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
