@@ -379,6 +379,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=glasspanel.mavita.kdns.fr",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794196763167",
+          "title": "Sublink Worker - 订阅链接转换工具",
+          "href": "https://sublink.mdcg.dpdns.org/?url=https%3A%2F%2Fvllmnfnl741sly5.eduk.cc.cd%2Fs%2FeyJ1IjoiYnRiayIsImUiOjE3ODg2MTk2NTkyNDQsInMiOiI0MWQ5MzNlNzUyM2E2ZGFhIn0%3Fprotocol%3Ddefault",
+          "description": "Convert and optimize your subscription links easily",
+          "icon": "/assets/favicon_1794196765554.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
