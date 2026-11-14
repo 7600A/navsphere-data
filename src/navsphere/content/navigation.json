@@ -114,6 +114,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794658580003",
+          "title": "Qwen",
+          "href": "https://chat.qwen.ai/",
+          "description": "",
+          "icon": "/assets/favicon_1794658588515.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
