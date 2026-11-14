@@ -270,6 +270,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.chaoxing.com",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794650784321",
+          "title": "Reddit - Prove your humanity",
+          "href": "https://www.reddit.com/?rdt=34141",
+          "description": "",
+          "icon": "/assets/favicon_1794650785579.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
