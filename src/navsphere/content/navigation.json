@@ -279,6 +279,15 @@
           "icon": "/assets/favicon_1794650785579.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794650808967",
+          "title": "微信公众号",
+          "href": "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1565685828&lang=zh_CN",
+          "description": "",
+          "icon": "/assets/favicon_1794650811572.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
