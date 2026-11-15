@@ -251,6 +251,15 @@
           "icon": "/assets/favicon_1794746065672.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794746078939",
+          "title": "看剧AI - KANJU.AI",
+          "href": "https://kanju29.com/",
+          "description": "看剧AI 影视搜索与内容发现工具，支持电影、电视剧、动漫、综艺片库浏览与智能推荐",
+          "icon": "/assets/favicon_1794746082824.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
