@@ -242,6 +242,15 @@
           "icon": "/assets/favicon_1789447483362.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1794746063100",
+          "title": "发现TV - 免费在线影视搜索与观看平台",
+          "href": "https://faxiantv.cc/index.php",
+          "description": "免费在线影视搜索与观看平台，豆瓣高分电影/剧集/动漫/综艺/纪录片在线观看，包含爱奇艺/腾讯/优酷/芒果VIP影视剧免费解析。",
+          "icon": "/assets/favicon_1794746065672.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
