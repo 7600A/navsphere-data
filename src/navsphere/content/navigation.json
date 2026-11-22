@@ -324,6 +324,15 @@
           "icon": "/assets/favicon_1794650811572.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795313927075",
+          "title": "小红书",
+          "href": "https://www.xiaohongshu.com/explore",
+          "description": "访问 www.xiaohongshu.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.xiaohongshu.com",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
