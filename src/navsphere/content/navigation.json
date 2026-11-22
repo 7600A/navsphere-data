@@ -269,6 +269,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=myds.momo.xx.kg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795313801319",
+          "title": "播剧网 - 最新电视剧电影在线观看与热门短剧追剧平台",
+          "href": "https://ysxq.cc/",
+          "description": "播剧网提供最新电视剧、电影、短剧、动漫、综艺等影视内容信息，支持按类型、地区、年份和演员快速查找，更新及时，播放流畅，是用户追剧、找剧、看影视资讯的便捷平台。",
+          "icon": "/assets/favicon_1795313804831.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
