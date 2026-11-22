@@ -753,6 +753,15 @@
           "icon": "/assets/favicon_1793865970303.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795313848796",
+          "title": "手写转换",
+          "href": "https://www.xuanyudev.cn/",
+          "description": "访问 www.xuanyudev.cn",
+          "icon": "/assets/favicon_1795313853859.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
