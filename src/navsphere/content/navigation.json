@@ -199,15 +199,6 @@
           "enabled": true
         },
         {
-          "id": "1785156290893",
-          "title": "观影导航",
-          "href": "https://www.guannav.com/",
-          "description": "访问 www.guannav.com",
-          "icon": "/assets/favicon_1785156294841.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "1789381711667",
           "title": "MoonTVPlus",
           "href": "https://moontvplus-uz.vercel.app/",
