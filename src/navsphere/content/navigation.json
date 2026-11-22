@@ -217,6 +217,15 @@
           "enabled": true
         },
         {
+          "id": "1795313801319",
+          "title": "播剧网 - 最新电视剧电影在线观看与热门短剧追剧平台",
+          "href": "https://ysxq.cc/",
+          "description": "播剧网提供最新电视剧、电影、短剧、动漫、综艺等影视内容信息，支持按类型、地区、年份和演员快速查找，更新及时，播放流畅，是用户追剧、找剧、看影视资讯的便捷平台。",
+          "icon": "/assets/favicon_1795313804831.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
           "id": "1789447481202",
           "title": "GimyTube",
           "href": "https://gimytube.com/",
@@ -231,15 +240,6 @@
           "href": "https://faxiantv.cc/index.php",
           "description": "免费在线影视搜索与观看平台，豆瓣高分电影/剧集/动漫/综艺/纪录片在线观看，包含爱奇艺/腾讯/优酷/芒果VIP影视剧免费解析。",
           "icon": "/assets/favicon_1794746065672.ico",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1795313801319",
-          "title": "播剧网 - 最新电视剧电影在线观看与热门短剧追剧平台",
-          "href": "https://ysxq.cc/",
-          "description": "播剧网提供最新电视剧、电影、短剧、动漫、综艺等影视内容信息，支持按类型、地区、年份和演员快速查找，更新及时，播放流畅，是用户追剧、找剧、看影视资讯的便捷平台。",
-          "icon": "/assets/favicon_1795313804831.png",
           "useDefaultIcon": false,
           "enabled": true
         },
